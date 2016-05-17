@@ -1,5 +1,6 @@
 *~
 .projectile
+tags
 # -- Maven
 target
 *.versionsBackup
