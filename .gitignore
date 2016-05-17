@@ -1,1 +1,32 @@
+*~
 .projectile
+# -- Maven
+target
+*.versionsBackup
+
+# -- Eclipse
+.classpath
+.project
+.settings
+bin
+
+# -- IntelliJ IDEA
+.idea
+*.iml
+
+# -- Mac OS
+.DS_Store
+
+# -- Java
+hs_err_pid*
+.sw?
+.*.sw?
+compiled
+.Z*.tex
+*.dvi
+*.aux
+*.log
+*~
+\#*
+.\#*
+.DS_Store
