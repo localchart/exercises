@@ -1,6 +1,7 @@
 #lang racket
 
-;; in-S?
+;; in-S? : N -> bool
+;; usage: (in-S? n) = #t if n is in S, #f otherwise
 (define in-S?
   (lambda (n)
     (cond
