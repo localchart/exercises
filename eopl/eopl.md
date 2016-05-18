@@ -1,5 +1,5 @@
 # Essentials of Programming Languages Study Notes
-Some notes and exercises  for study.
+Some notes and exercises for study.
 
 [TOC]
 
@@ -23,6 +23,9 @@ Some notes and exercises  for study.
   $$
   \frac{}{2 \in N}\\\frac{n \in N}{(n + 3) \in N}
   $$
+
+
+
 
 
 
