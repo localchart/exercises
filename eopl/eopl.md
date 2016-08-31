@@ -15,7 +15,7 @@ Some notes and exercises for study.
      [(positive? (- n 3)) (in-S? (- n 3))]
      [else #f])))
 ```
-### Execises 1.1
+### Exercise 1.1
 
 * Top-Down
 * Bottom-Up
@@ -23,6 +23,7 @@ Some notes and exercises for study.
   $$
   \frac{}{2 \in N}\\\frac{n \in N}{(n + 3) \in N}
   $$
+
 
 
 
