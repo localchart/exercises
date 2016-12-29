@@ -1,0 +1,3 @@
+[submodule "libdir/chez-a-sync"]
+	path = libdir/chez-a-sync
+	url = https://github.com/ChrisVine/chez-a-sync

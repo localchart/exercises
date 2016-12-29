@@ -9,7 +9,7 @@
          (call-with-socket
           (socket-accept echo-server-socket)
           proc)
-         (accept))))))
+         (accept))))
 
 (define (get-line-from-binary-port bin)
   (utf8->string
